@@ -3,7 +3,8 @@
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
-#Тестовый коммент для проверки синхронизации
+# Тестовый коммент для проверки синхронизации
+# Доп коммент для теста синхронизации в GIT
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
